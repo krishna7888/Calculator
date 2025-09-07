@@ -30,7 +30,10 @@ It provides basic arithmetic operations with a clean and responsive UI.
 
 ## 📸 Preview
 
-(Add a screenshot or GIF of your calculator UI here for better presentation.)
+Here’s how the calculator looks:
+
+![Calculator Screenshot](./Calculator_img.png)
+
 
 ---
 
